@@ -45,7 +45,7 @@ Seção dedicada a informações de contato da loja e links úteis.
 
 **📦 Produtos Disponíveis**
 
-Seção que exibe todas as miniaturas 3D, com imagens, nomes, valores e possibilidade de reserva.
+Seção que exibe todas as miniaturas 3D, com imagens, nomes e valores.
 
 <img src="./frontend/public/images/geeklab-items.png" alt="Produtos do GeekLab" width="600"/>
 
