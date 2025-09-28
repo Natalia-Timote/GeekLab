@@ -1,0 +1,21 @@
+.confirmPopupContainer {
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 1em;
+    align-items: center;
+}
+
+.confirmPopupContainer p {
+    color: #000;
+}
+
+.confirmBtns {
+    display: flex;
+    gap: 0.5em;
+}
+
+.cancelBtn {
+    background-color: #333;
+}

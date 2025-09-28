@@ -1,0 +1,61 @@
+.pageContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    margin: 0 2em;
+}
+
+.itemContainer {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.itemContainer img {
+    width: 360px;
+    height: 100%;
+    border-radius: 1em;
+    object-fit: cover;
+}
+
+.itemsListContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.itemsListContainer p {
+    color: #000;
+}
+
+.itemContent {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: 100%;
+}
+
+.quantityContainer {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+}
+
+.quantityBtns {
+    display: flex;
+    gap: 0.2em;
+}
+
+.quantityBtns a {
+    font-size: x-large;
+    cursor: pointer;
+    background-color: #fff;
+    color: #000;
+}
+
+.confirmBtn {
+    position: fixed;
+    font-size: large;
+    bottom: 2em;
+    align-self: end;
+    margin-right: 2em;
+}

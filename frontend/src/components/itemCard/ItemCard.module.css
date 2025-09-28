@@ -1,0 +1,32 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 0.6em;
+    border: solid 1px #000;
+    border-radius: 16px;
+    width: 240px;
+    cursor: pointer;
+}
+
+.cardContainer img {
+    height: 200px;
+    width: auto;
+    align-self: center;
+    object-fit: cover;
+}
+
+.cardContainer h4, .cardContainer h5, .cardContainer p {
+    color: #000;
+    font-size: medium;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    object-fit: contain;
+}
+
+.price {
+    text-align: right;
+}

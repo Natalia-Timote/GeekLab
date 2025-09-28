@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Miniatura Harry Potter",
+        "price": "30,00",
+        "available": true,
+        "description": "Miniatura do personagem Harry Potter, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/harry-potter.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Hermione",
+        "price": "30,00",
+        "available": false,
+        "description": "Miniatura da personagem Hermione, da saga Harry Potter, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/hermione.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Rony Weasley",
+        "price": "30,00",
+        "available": false,
+        "description": "Miniatura do personagem Rony Weasley, da saga Harry Potter, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/rony-weasley.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Pikachu Luffy",
+        "price": "60,00",
+        "available": false,
+        "description": "Miniatura Pikachu Luffy, misturando o universo de Pokémon com One Piece, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Psyduck",
+        "price": "30,00",
+        "available": false,
+        "description": "Miniatura do personagem Psyduck, de Pokémon, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/psyduck.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Gengar",
+        "price": "50,00",
+        "available": false,
+        "description": "Miniatura do personagem Gengar, de Pokémon, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/gengar.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Snorlax",
+        "price": "60,00",
+        "available": false,
+        "description": "Diorama do personagem Snorlax, de Pokémon, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/snorlax.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Dragonite",
+        "price": "60,00",
+        "available": false,
+        "description": "Diorama do personagem Dragonite, de Pokémon, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/dragonite.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Totoro",
+        "price": "55,00",
+        "available": false,
+        "description": "Diorama do personagem Totoro, de Meu Amigo Totoro, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/totoro.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Stitch",
+        "price": "40,00",
+        "available": false,
+        "description": "Diorama do personagem Stitch, de Lilo & Stitch, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/stitch.png",
+        "category": "First"
+    },
+    {
+        "name": "Miniatura Baby Yoda",
+        "price": "60,00",
+        "available": false,
+        "description": "Diorama do personagem baby Yoda, de Star Wars Mandalorian, feita em impressão 3D e pintada a mão",
+        "materials": [
+            "Filamento de impressora 3D(PLA)",
+            "Tinta acrílica"
+        ],
+        "imgUrl": "/images/miniatures/yoda.png",
+        "category": "First"
+    }
+]

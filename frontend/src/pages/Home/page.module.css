@@ -1,0 +1,78 @@
+.pageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    padding: 0.5em;
+}
+
+.pageContainer p {
+    color: #000;
+}
+
+.homeSection {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.miniatureSection {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    background-color: #faf0ca;
+    padding: 2em;
+    border-radius: 2em;
+}
+
+.miniatureInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.5em;
+}
+
+.miniatureSection img {
+    width: 10em;
+}
+
+.miniatureSection p {
+    color: #000;
+}
+
+.contactSection {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.socialButtonContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.2em;
+}
+
+.socialButton {
+    font-size: large;
+    width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+    .miniatureSection {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .miniatureSection {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .socialButtonContainer {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}

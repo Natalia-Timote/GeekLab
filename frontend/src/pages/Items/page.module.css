@@ -1,0 +1,14 @@
+.pageContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    margin: 0 2em;
+}
+
+.itemsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4em;
+    align-items: center;
+    justify-content: space-around;   
+}
