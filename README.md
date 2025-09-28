@@ -57,7 +57,7 @@ Ao clicar em um produto, o usuário visualiza detalhes e pode adicionar o item a
 
 **🛒 Itens no Carrinho**
 
-Área que exibe os produtos adicionados ao carrinho, mostrando imagem, nome, quantidade e valor unitário.
+Área que exibe os produtos adicionados ao carrinho, mostrando imagem, nome, descrição e ações sobre o produto.
 
 <img src="./frontend/public/images/geeklab-cart.png" alt="Itens no Carrinho GeekLab" width="600"/>
 
