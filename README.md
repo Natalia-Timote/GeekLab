@@ -49,21 +49,21 @@ Seção que exibe todas as miniaturas 3D, com imagens, nomes e valores.
 
 <img src="./frontend/public/images/geeklab-items.png" alt="Produtos do GeekLab" width="600"/>
 
-**🛒 Itens no Carrinho**
-
-Área que exibe os produtos adicionados ao carrinho, mostrando imagem, nome, quantidade, valor unitário e total da compra.
-
-<img src="./frontend/public/images/geeklab-cart.png" alt="Itens no Carrinho GeekLab" width="600"/>
-
 **🎨 Detalhes do Produto**
 
-Ao clicar em um produto, o usuário visualiza detalhes, estoque e pode realizar reservas.
+Ao clicar em um produto, o usuário visualiza detalhes e pode adicionar o item ao carrinho.
 
 <img src="./frontend/public/images/geeklab-item.png" alt="Detalhes do Produto GeekLab" width="600"/>
 
+**🛒 Itens no Carrinho**
+
+Área que exibe os produtos adicionados ao carrinho, mostrando imagem, nome, quantidade e valor unitário.
+
+<img src="./frontend/public/images/geeklab-cart.png" alt="Itens no Carrinho GeekLab" width="600"/>
+
 **🧑‍💻 Pedidos do Usuário**
 
-Seção onde o usuário pode acompanhar os pedidos realizados, com informações detalhadas sobre cada compra, status e datas.
+Seção onde o usuário pode acompanhar os pedidos realizados, com informações sobre cada compra, status e datas.
 
 <img src="./frontend/public/images/geeklab-user.png" alt="Pedidos do Usuário GeekLab" width="600"/>
 
